@@ -194,7 +194,7 @@
 
 #### This Tool Must Run As ROOT !!!
 
-    git clone https://github.com/Z4nzu/hackingtool.git
+    git clone https://github.com/aslamlatheef/hackingtools.git
     
     chmod -R 755 hackingtool  
     
